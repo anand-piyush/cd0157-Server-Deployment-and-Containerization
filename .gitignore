@@ -28,4 +28,8 @@ htmlcov/
 .envrc
 .direnv
 
+trust.json
+iam-role-policy.json
+
+.envfile
 .github/**
