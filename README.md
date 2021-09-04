@@ -16,7 +16,7 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
 1. Fork this project to your Github account.
 2. Locally clone your forked version to begin working on the project.
 
-## Dependencies
+### Dependencies
 
 - Docker Engine
     - Installation instructions for all OSes can be found [here](https://docs.docker.com/install/).
